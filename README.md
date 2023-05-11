@@ -20,9 +20,9 @@ what do you think about the future</h3>
 
 - 💬 Ask me about **Frontend Web**
 
-- 🌐 How to reach me **(https://dwiajic.netlify.app/)**
+- 🌐 How to reach me **https://dwiajic.netlify.app/**
 
-- ⚡ Hobbies **(sometimes a GAMER)**
+- ⚡ Hobbies **sometimes a GAMER**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
