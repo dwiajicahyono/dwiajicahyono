@@ -20,7 +20,7 @@ what do you think about the future</h3>
 
 - 💬 Ask me about **Frontend Web**
 
-- 📫 How to reach me **dwiaji724@gmail.com**
+- 🌐 How to reach me **dwiajic(https://dwiajic.netlify.app/)**
 
 - ⚡ Hobbies **sometimes a GAMER **
 
