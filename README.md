@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Dwi</h1>
 <h3 align="center">
 what do you think about the future</h3>
+<br/>
+<h3 align="center">
+Sometime I Fell "Punggung Berat Dek"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dwiajicahyono&label=Profile%20views&color=0e75b6&style=flat" alt="dwiajicahyono" /> </p>
 
