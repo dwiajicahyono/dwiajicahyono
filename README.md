@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 what do you think about the future</h3>
 <br/>
 <h3 align="center">
-Sometime I Fell "Punggung Berat Dek"</h3>
+Sometime I Feel "Punggung Berat Dek"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dwiajicahyono&label=Profile%20views&color=0e75b6&style=flat" alt="dwiajicahyono" /> </p>
 
