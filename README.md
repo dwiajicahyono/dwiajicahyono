@@ -42,5 +42,5 @@ Sometime I Feel "Punggung Berat Dek"</h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dwiajicahyono&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="dwiajicahyono" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dwiajicahyono&" alt="dwiajicahyono" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dwiajicahyono" alt="dwiajicahyono" /></p>
 
