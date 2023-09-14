@@ -21,7 +21,7 @@ Sometime I Feel "Punggung Berat Dek"</h3>
 
 - 🌱 I’m currently learning **Backend With Framework**
 
-- 💬 Ask me about **Frontend Web**
+- 💬 Ask me about **Frontend Web || IoT**
 
 - 🌐 How to reach me **https://dwiajic.netlify.app/**
 
